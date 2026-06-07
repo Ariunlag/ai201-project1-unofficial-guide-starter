@@ -1,0 +1,15 @@
+Title: UIC Computer Science Research Areas
+Source URL: https://cs.uic.edu/cs-research/research-areas-2/
+Source type: Official UIC Computer Science webpage
+Topic: UIC CS research areas and faculty lists
+
+Cleaned content:
+The UIC Computer Science Research Areas page provides a CS Lab Index Booklet that briefly describes UIC computer science labs and research areas. The page says the booklet helps students find and contact faculty members in their area of interest, identify opportunities for collaboration, and learn about each lab's current research projects.
+
+Artificial Intelligence faculty listed on the page include Cornelia Caragea, Hao Chen, Lu Cheng, Barbara Di Eugenio, Piotr Gmytrasiewicz, Ian Kash, Andruid Kerne, Bing Liu, Wenhao Luo, Sourav Medya, Peter Nelson, Natalie Parde, Sathya Ravi, Robert H. Sloan, Xiaorui Sun, Wei Tang, Philip S. Yu, Xinhua Zhang, Elena Zheleva, Yifan Zhu, and Brian Ziebart.
+
+Computer Vision faculty listed on the page include Sathya Ravi and Wei Tang.
+
+Data Science faculty listed on the page include Abolfazl Asudeh, Gonzalo Bello, Hao Chen, Lu Cheng, Barbara Di Eugenio, Andrew Johnson, Chris Kanich, Andruid Kerne, Sidharth Kumar, Bing Liu, G. Elisabeta Marai, Sourav Medya, Fabio Miranda, Michael E. Papka, Natalie Parde, Stavros Sintos, Xiaorui Sun, Ouri Wolfson, Philip S. Yu, Xinhua Zhang, Elena Zheleva, and Brian Ziebart.
+
+Databases faculty listed on the page include Abolfazl Asudeh, Boris Glavic, Andruid Kerne, Fabio Miranda, Stavros Sintos, Aravinda Prasad Sistla, Ouri Wolfson, and others. The page connects UIC CS research to areas such as artificial intelligence, bioinformatics, computer vision, data science, and databases.

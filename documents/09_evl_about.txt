@@ -1,0 +1,15 @@
+Title: About EVL — Electronic Visualization Laboratory
+Source URL: https://www.evl.uic.edu/about
+Source type: Official UIC EVL webpage
+Topic: EVL history, visualization, virtual reality, data science, advanced computing, networks, and collaboration
+
+Cleaned content:
+Established in 1973, the Electronic Visualization Laboratory, or EVL, is an interdisciplinary research laboratory in the UIC College of Engineering's Computer Science department. EVL specializes in collaborative visualization, virtual reality, visual data science, and advanced computing and networking infrastructure.
+
+EVL enables scientists and engineers to manage data scale and complexity by creating information visualizations of multidimensional and multivariate data, exploring 3D immersive worlds, juxtaposing related yet heterogeneous 2D and 3D datasets, accessing computer infrastructure for machine learning, and moving large datasets over high-speed networks.
+
+EVL has a long history of work in real-time interactive graphics, videogame technology, scientific visualization, advanced virtual reality, and high-speed networking infrastructure. The lab is known for inventions including the CAVE virtual reality environment, the ImmersaDesk, OptIPortal, SAGE scalable adaptive graphics environment, and the Continuum Collaborative Smart Space.
+
+EVL's current work includes hardware and software technologies such as the CAVE2 hybrid-reality environment, SAGE2 scalable amplified group environment, and SAGE3 smart amplified group environment. The lab continues to expand in scientific visualization, information visualization, visual analytics, and collaborative research.
+
+EVL collaborates with computational scientists and application scientists in academia, government, and industry. EVL faculty, staff, and students form interdisciplinary teams to create useful and usable visualization and virtual-reality tools connected to remote data stores and colleagues over high-speed networks. EVL maintains a distinguished publication record, with students, faculty, and staff publishing in major journals and conferences worldwide.

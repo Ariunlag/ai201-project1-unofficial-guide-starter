@@ -1,0 +1,13 @@
+Title: UIC Artificial Intelligence Laboratory — Projects
+Source URL: https://ai.uic.edu/projects/
+Source type: Official UIC lab webpage
+Topic: AI Lab projects including transportation information, data mining, manufacturing, design processes, machine learning, genetic programming, and text summarization
+
+Cleaned content:
+UIC Artificial Intelligence Laboratory Projects page.
+
+Project: Gary-Chicago-Milwaukee corridor transportation information. The GCM corridor is described as one of four Priority Corridors in the United States. The corridor includes the greater metropolitan areas of Gary, Chicago, and Milwaukee, plus portions of southeast Wisconsin, northeast Illinois, and northwest Indiana. The goal of the project is to improve mobility by better managing transportation systems instead of simply building new roads. The project focuses on operational testbeds for intelligent transportation systems, regional traffic improvement, public awareness, institutional relationships, and testing new technologies.
+
+Project: Data mining for manufacturing and design processes. This project focuses on large-scale datasets with numeric and nominal attributes. The goal is to discover and predict hidden patterns or relationships among data attributes that affect manufacturing and production quality. The techniques include decision trees, decision rules, neural networks, and traditional machine learning methods. The project also investigates adaptive evolutionary computational methods for complex problems. One approach uses Gene Expression Programming, a genetic-algorithm-family method that evolves computer programs and predicts mathematical functions from experimental data. Experiments included multi-category pattern classification problems.
+
+Project: Text summarization. This project studies natural language processing and machine learning methods for summarization. The page explains that people face information overload from emails, news headlines, traffic reports, scientific articles, browsing webpages, and other sources. Automated text summarization is described as a way to reduce information overload and help users identify important information.

@@ -1,0 +1,17 @@
+Title: High School Research Opportunities
+Source URL: https://www.reddit.com/r/uichicago/comments/16a8kqs/high_school_research_opportunities/
+Source type: Reddit thread from r/uichicago
+Topic: Research access, cold emailing, lab fit, and preparation for research
+
+Cleaned content:
+Original post: The original post was deleted, but the discussion focused on whether a high school student could get research experience in or near UIC labs.
+
+One former graduate student said a high school student would need to find a lab where the work does not require much background knowledge. They explained that some labs have preparatory work or data collection work, but many labs require background knowledge or relevant courses. The same commenter said that, in their lab, even undergraduates were not accepted often because the lab work required later coursework.
+
+Another commenter suggested emailing every professor in the department where the student is interested in doing research. They said they once emailed about 40 professors, received about 15 replies, got 3 interviews, and ended up with 2 research labs.
+
+A commenter warned against sending generic emails. They said a generic letter is a red flag because it suggests the student is not truly interested in the professor's work. They recommended identifying researchers whose work is personally interesting, explaining why the work is interesting, and showing enthusiasm for that specific project.
+
+Another commenter said high school students should be patient and focus on doing well in school first. They said more research resources would be available later in university or community college.
+
+A final commenter said research may be possible if the student has relevant programming skills such as Python, Rust, C, or C++. They recommended preparing a resume and sending it to professors in ECE or Computer Science, but emphasized that students must be serious and committed.

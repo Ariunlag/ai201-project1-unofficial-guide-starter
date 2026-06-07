@@ -1,0 +1,11 @@
+Title: DBMC Lab — Moving Objects Databases
+Source URL: https://dbmc.lab.uic.edu/projects/moving-objects-databases/
+Source type: Official UIC Database and Mobile Computing Laboratory webpage
+Topic: Moving object databases, mobile unit tracking, DOMINO project, location management
+
+Cleaned content:
+The Database and Mobile Computing Laboratory page describes the Moving Objects Databases project. The project is called Databases For MovIng Objects tracking, abbreviated DOMINO. It develops a prototype database system for tracking mobile units.
+
+The project was partly supported by NSF grants 0326284, 0513736, and 0209190. The page names Ouri Wolfson as the project director. Other participants include graduate student Damian Roqueiro, Venkata Kumar Srinivasan, Leon Stenneth, Fatemeh Vafae, Mayia Arun, Lei Zhang, and research scientist Dr. Bo Xu.
+
+The page links to an overview paper titled Moving Objects Information Management: The Database Challenge, from the Proceedings of the 5th Workshop on Next Generation Information Technologies and Systems in 2002. The project relates to location management, moving objects information management, mobile computing, database systems, and tracking mobile units.
